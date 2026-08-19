@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loisa\\OneDrive\\Documents\\GitHub\\Pythagoreas TDSS\\BinanceScannerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1D70E6-14D1-1DC3-1BCE-D34CEC5C21E0}|BinanceScannerApp.csproj|c:\\users\\loisa\\onedrive\\documents\\github\\pythagoreas tdss\\binancescannerapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E1D70E6-14D1-1DC3-1BCE-D34CEC5C21E0}|BinanceScannerApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\loisa\\OneDrive\\Documents\\GitHub\\Pythagoreas TDSS\\BinanceScannerApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\loisa\\OneDrive\\Documents\\GitHub\\Pythagoreas TDSS\\BinanceScannerApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-19T14:02:15.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
